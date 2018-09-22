@@ -1,1 +1,2 @@
-# Aula-10---exercicio
+# 10-Previsao
+Criando previsões a partir dos modelos.
